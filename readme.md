@@ -22,4 +22,12 @@ git push origin <branch> # push changes to GitHUb
 git tag -a <vnumber> -m "tag comment" #creates a tag and version 
 git push origin --tags  #pushes tag to GitHub
 ```
-
+Activley using commands 
+````
+git add -A
+git commit -m "msg"
+git checkout
+git merge
+git push origin <branch>
+git tag -a v1.0.9 -m "tag comment"
+git push origin --tags
