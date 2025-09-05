@@ -18,6 +18,7 @@ git checkout <branch>      # checkout target branch
 git status          # I'm lost / shows current status
 git merge <branch name> # merge target bnch into current branch
 (use "git restore --staged <file>..." to unstage)
+git push origin <branch> # push changes to GitHUb
 
 ```
 
